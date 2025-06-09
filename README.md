@@ -3,7 +3,7 @@
 ## 🧠 Tech Stack
 | Component         | Technology             |
 |------------------|------------------------|
-| Language Model    | HuggingFace Transformers (Mistral or others) |
+| Language Model    | HuggingFace Transformers (Mistral) |
 | Embeddings        | HuggingFaceEmbeddings |
 | Document Store    | FAISS                 |
 | Framework         | LangChain             |
